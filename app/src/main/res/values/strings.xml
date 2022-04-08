@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="permission_denied">User Permission Denied</string>
+    <string name="map_marker_title">You are here</string>
+</resources>
